@@ -1,4 +1,65 @@
 {
-    "chance": 35,
-    "characters": []
+  "chance": 35,
+  "characters": [
+    {
+      "name": "John",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/john.png",
+      "messages": [
+        "Antes las motos sí eran motos.",
+        "¿Dónde anda Zix? Seguro sigue limpiando la misma moto.",
+        "Fly otra vez poniendo Metallica... ni una banda nueva conoce.",
+        "En mis tiempos no hacíamos tanto drama."
+      ]
+    },
+    {
+      "name": "Fly",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/fly.png",
+      "messages": [
+        "John ya empezó otra vez...",
+        "Metallica nunca falla.",
+        "¿Alguien ha visto a Zix?",
+        "El bar está muy silencioso hoy."
+      ]
+    },
+    {
+      "name": "Montes",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/montes.png",
+      "messages": [
+        "Guys... ¿qué hacemos hoy?",
+        "¿Habrá rodada soon?",
+        "No recuerdo cómo se dice wrench en español.",
+        "¿Quién está online?"
+      ]
+    },
+    {
+      "name": "Zix",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/zix.png",
+      "messages": [
+        "Ya terminé de limpiar las motos.",
+        "Rellené el bar.",
+        "¿Fly ya volvió?",
+        "También acomodé las herramientas."
+      ]
+    },
+    {
+      "name": "Tenesse",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/tenesse.png",
+      "messages": [
+        "¿Una cerveza?",
+        "Invito la siguiente ronda.",
+        "El alcohol revela la verdad.",
+        "Pope, vente al bar."
+      ]
+    },
+    {
+      "name": "Pope",
+      "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/pope.png",
+      "messages": [
+        "Otra cita... otro fracaso.",
+        "Tenesse, ¿unas chelas?",
+        "Ya casi encuentro al amor de mi vida.",
+        "Bueno... tampoco hoy."
+      ]
+    }
+  ]
 }
