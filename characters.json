@@ -7,6 +7,12 @@
       "messages": [
         "Antes las motos sí eran motos.",
         "¿Dónde anda Zix? Seguro sigue limpiando la misma moto.",
+        "Fly otra vez con Metallica...",
+        "Zix, ¿ya acabaste de lavar las motos?",
+        "Zix, pedazo de asno, vi que estabas acomodando los cascos por color. ¿Qué sigue, pinche joto, hacernos trenzas en las barbas y pintarnos las uñas? Ponte a hacer algo útil antes de que te use la cabeza de cenicero.",
+        "Montes siempre hablando medio inglés.",
+        "Zix, me enteré de que andas de arrastrado preguntando a qué hora llega Fly. Deja de andar de lamebotas, pinche chamaco urgido, a las viejas no les gustan los rogones y menos a una que tiene más cara de camionero que tú.",
+        "Estaba viendo las pinches noticias... ahora resulta que todo les deprime y les ofende. En mis tiempos, si tenías un problema con un cabrón, lo agarrabas a madrazos detrás del taller, le partías la madre y luego se tomaban una cerveza. Pinche generación de cristal cagada.",
         "Fly otra vez poniendo Metallica... ni una banda nueva conoce.",
         "En mis tiempos no hacíamos tanto drama."
       ]
@@ -15,9 +21,14 @@
       "name": "Fly",
       "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/fly.png",
       "messages": [
-        "John ya empezó otra vez...",
+        "John ya empezó otra vez, maldito viejo rancio...",
         "Metallica nunca falla.",
+        "Ya cállate la puta boca, John. Tus malditas historias del siglo pasado ya nos las sabemos de memoria, viejo miado. Ve a tomarte tus pastillas para la embolia y déjanos rodar en paz, viejo rancio asqueroso.",
         "¿Alguien ha visto a Zix?",
+        "Zix, qué bueno que volviste. Oye... vi que rellenaste el bar con la cerveza que me gusta, gracias por el detalle, de verdad. Si vas a estar en la taberna al rato, avísame... tal vez pase a tomar algo contigo... bueno, con todos, pues.",
+        "¿Alguien vio a Zix?",
+        "A ver, Pope, deja de hablar de tus supuestas conquistas, pendejo. Das pena ajena. La última vieja con la que saliste resultó tener más huevos y más barba que John. Mejor ponte a limpiar las mesas con Zix y cállate.",
+        "Montes nunca encuentra las palabras, muy gringo serás jajaja.",
         "El bar está muy silencioso hoy."
       ]
     },
@@ -26,7 +37,12 @@
       "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/montes.png",
       "messages": [
         "Guys... ¿qué hacemos hoy?",
+        "Hey Zix, mi buen friend. ¿Me podrías ayudar a checar los niveles de oil de mi moto más tarde? Sé que estás ocupado limpiando la mierda de los demás, pero tú eres el chingón en mantener todo al cien.",
         "¿Habrá rodada soon?",
+        "Tenesse, de verdad necesitas ayuda con tu drinking problem, man. Apenas son las diez de la puta mañana y ya estás ofreciendo shots de mezcal. Take it easy, pinche borracho inmundo.",
+        "Zix, are you cleaning again?",
+        "John, deja de molestar a Zix, man. El muchacho está haciendo su best effort y tú solo estás ahí sentado rascándote las bolas y hablando del año del caldo. Give him a break, viejo estorbo.",
+        "Fly, are you back?",
         "No recuerdo cómo se dice wrench en español.",
         "¿Quién está online?"
       ]
@@ -36,7 +52,14 @@
       "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/zix.png",
       "messages": [
         "Ya terminé de limpiar las motos.",
+        "Buenas tardes a todos los miembros. Les informo respetuosamente que ya terminé de lavar y encerar todas las motos del garaje. Utilicé el producto especial para el cromo para que queden impecables para la próxima salida.",
         "Rellené el bar.",
+        "John, ya quedó el taller.",
+        "Disculpen la molestia... ¿alguien de casualidad sabe si la señorita Fly ya volvió de sus rutas de la tarde? Quería preguntarle si le pareció bien cómo acomodé los discos de música en la sala de la sede.",
+        "Fly, ¿ya regresaste de la ruta?",
+        "Pope, limpié tu moto.",
+        "Tenesse, otra vez vomitaste en tu moto, que asco...",
+        "Disculpen, ¿alguien sabe qué ruta tomó la señorita Fly hoy? Es que empezó a nublarse mucho por el norte y me preocupa que se quede atrapada en la tormenta sin su impermeable. Podría ir a llevarlo si me autorizan.",
         "¿Fly ya volvió?",
         "También acomodé las herramientas."
       ]
@@ -47,6 +70,11 @@
       "messages": [
         "¿Una cerveza?",
         "Invito la siguiente ronda.",
+        "Pope, sigo riéndome de tu cita del miércoles, maldito imbécil. Me dijiste que tenía unas piernas hermosas y resultó que usaba navaja de afeitar de tres hojas para la barba y traía rifle entre las piernas. ¡Jajaja! Ven, te invito una cheve para el susto, puñetas.",
+        "Pope, una cerveza más.",
+        "John, viejo gruñón cacarizo, tómate una pinche cerveza conmigo a ver si se te ablanda el corazón o mínimo se te olvida en qué maldito año estamos. El alcohol cura lo rancio y lo pendejo, te lo juro por mi hígado cirrótico.",
+        "John, deja el sermón y vente al bar.",
+        "Pope, eres mi fiel compañero de parrandas, pero de verdad tienes el peor radar de mujeres del puto planeta. La próxima vez yo te elijo la puta cita, o mejor nos quedamos bebiendo solitos para evitar sorpresas con pito.",
         "El alcohol revela la verdad.",
         "Pope, vente al bar."
       ]
@@ -56,8 +84,12 @@
       "avatar": "https://raw.githubusercontent.com/culitoricouwu-arch/Iron-Legends-PJs/main/avatars/pope.png",
       "messages": [
         "Otra cita... otro fracaso.",
+        "Muchachos, no van a creer la pendejada que me pasó. Ligé con una morra guapísima en el antro, cuerpo de infarto, un fundillo hermoso... Fuimos a su departamento, y cuando entramos, su voz cambió por completo a una de trailero y me dijo: 'Oye carnal, ¿traes un condón?'. ¡Resultó ser un travesti super operada! Me saqué de onda horrible pero terminamos jugando FIFA y fumando mota toda la noche, gran sujeto.",
         "Tenesse, ¿unas chelas?",
+        "John, deja de hacer chistes de que me gustan los travestis, pinche viejo estúpido. Fue un error honesto, la iluminación del antro estaba de la chingada y cualquiera se confunde con tanta cirugía de ahora. Además, la pasé chido en el FIFA, no te metas.",
         "Ya casi encuentro al amor de mi vida.",
+        "¡Tenesse, pinche borracho de mierda! Menos mal que estás aquí. Sírveme un trago doble de whisky porque la puta perra de anoche me bloqueó de todas partes justo después de que le pagué la cena y el Uber. Necesito ahogar esta pena.",
+        "Muchachos, de verdad tengo una maldición en el pito. Salí con una tipa hermosa el jueves. Fuimos a cenar tacos de la calle, todo muy bien. A mitad de la noche le cayó pesado el picante, le dio una diarrea explosiva y terminé pasándola tres horas en urgencias oliendo a mierda.",
         "Bueno... tampoco hoy."
       ]
     }
